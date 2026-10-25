@@ -2,7 +2,7 @@
 
 ## Consignes
 
-Écrire une fonction `supprimerDoublons` qui prend en paramètre un tableau de nombres et retourne un nouveau tableau contenant les mêmes éléments mais sans doublons.
+Écrivez une fonction `supprimerDoublons` qui prend en paramètre un tableau de nombres et retourne un nouveau tableau contenant les mêmes éléments mais sans doublons.
 
 L'ordre de la première apparition de chaque élément doit être préservé.
 
